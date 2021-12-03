@@ -5,12 +5,11 @@ body{
 
 
 #titulo{
-    background-color: rgb(161, 0, 0);
-    color: whitesmoke;
+    color: rgb(245, 97, 29);
     padding: 1rem 1rem;
     outline: 1.5px solid black;
-    background-image: url(C:\Users\gonza\Desktop\Almacen\img\banner_1.jpg);
-    height: 150px;
+    background-image: url(img/banner4.jpg);
+    height: fit-content;
 }
 
 div h1{
@@ -47,7 +46,7 @@ table{
 }
 
 table thead{
-    background-color: rgb(190, 0, 0);
+    background-color: rgb(221, 20, 20);
 }
 
 .table-responsive {
