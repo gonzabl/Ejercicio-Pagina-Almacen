@@ -1,0 +1,89 @@
+body{
+    margin: 0 auto;
+    background-color: #ebebeb;
+}
+
+
+#titulo{
+    background-color: rgb(161, 0, 0);
+    color: whitesmoke;
+    padding: 1rem 1rem;
+    outline: 1.5px solid black;
+    background-image: url(C:\Users\gonza\Desktop\Almacen\img\banner_1.jpg);
+    height: 150px;
+}
+
+div h1{
+    font-size: 4rem;
+    text-align: center;
+}
+
+#barra{
+    color: black;
+}
+
+
+
+#catalogo{
+    margin: 0 auto;
+}
+
+
+.banners{
+    margin: 10px 0px 10px 0px;
+    padding: 10px 25px 20px 25px;
+}
+
+
+
+#banner{
+    width: 90%;
+    margin: 1rem;
+}
+
+
+table{
+    border-collapse: collapse;
+}
+
+table thead{
+    background-color: rgb(190, 0, 0);
+}
+
+.table-responsive {
+    min-height: .01%;
+    overflow-x: auto;
+}
+
+
+
+@media (max-width: 567px) {
+    .hideables {
+        display: none; 
+    }
+}
+
+footer{
+    background-color: black;
+}
+
+footer div{
+    background-color: black;
+    float: right;
+}
+
+footer p {
+    margin: 0;
+    color: white;
+}
+
+footer a{
+    transform: color 0.3s ease;
+    color: #fff;
+    text-decoration: none;
+    margin: 0.5rem;
+}
+
+footer a:hover{
+    color: cornflowerblue;
+}
